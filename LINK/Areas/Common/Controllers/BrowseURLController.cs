@@ -17,9 +17,23 @@ namespace LINK.Areas.Common.Controllers
         }
 
         // GET: Common/BrowseURL
-        public ActionResult Index()
+        public ActionResult Index(String SortOrder,String SortBy)
         {
-            var urls = objurlbs.GetALL();
+            ViewBag.SortOrder = SortOrder;
+            ViewBag.SortBy = SortBy;
+            var urls = objurlbs.GetALL().Where(x => x.IsApproved=="A").ToList();
+            switch (SortOrder)
+            {
+                case "Asc":
+                    urls = urls.OrderBy(x => x.UrlTitle).ToList();
+                    break;
+                case "Desc":
+                    urls = urls.OrderByDescending(x => x.UrlTitle).ToList();
+                    break;
+                default:
+                    break;
+                    
+            }//
             return View(urls);
         }
     }

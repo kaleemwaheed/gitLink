@@ -11,7 +11,8 @@
 <table class="table">
     <tr>
         <th>
-            @Html.DisplayNameFor(model => model.UrlTitle)
+            @*@Html.DisplayNameFor(model => model.UrlTitle)*@
+            @Html.ActionLink("UrlTitle", "Index", new {SortOrder =  (ViewBag.SortOrder==null?"Asc":(ViewBag.SortOrder=="Asc"?"Desc":"Asc")), OrderBy="Title" })
         </th>
         <th>
             @Html.DisplayNameFor(model => model.Url)
@@ -32,7 +33,8 @@
             @Html.DisplayFor(modelItem => item.UrlTitle)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.Url)
+            <a target="_blank" href=@item.Url>@item.Url</a>
+            @*@Html.DisplayFor(modelItem => item.Url)*@
         </td>
         <td>
             @Html.DisplayFor(modelItem => item.UrlDesc)
