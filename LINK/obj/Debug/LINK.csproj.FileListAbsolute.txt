@@ -31,3 +31,9 @@ c:\users\your\documents\visual studio 2015\Projects\LINK\LINK\bin\System.Web.Mvc
 c:\users\your\documents\visual studio 2015\Projects\LINK\LINK\obj\Debug\LINK.csprojResolveAssemblyReference.cache
 c:\users\your\documents\visual studio 2015\Projects\LINK\LINK\obj\Debug\LINK.dll
 c:\users\your\documents\visual studio 2015\Projects\LINK\LINK\obj\Debug\LINK.pdb
+c:\users\your\documents\visual studio 2015\Projects\LINK\LINK\bin\BLL.dll
+c:\users\your\documents\visual studio 2015\Projects\LINK\LINK\bin\BOL.dll
+c:\users\your\documents\visual studio 2015\Projects\LINK\LINK\bin\EntityFramework.dll
+c:\users\your\documents\visual studio 2015\Projects\LINK\LINK\bin\BLL.pdb
+c:\users\your\documents\visual studio 2015\Projects\LINK\LINK\bin\BOL.pdb
+c:\users\your\documents\visual studio 2015\Projects\LINK\LINK\bin\EntityFramework.xml

@@ -3,3 +3,8 @@ c:\Users\Your\documents\visual studio 2015\Projects\LINK\BOL\bin\Debug\BOL.pdb
 c:\Users\Your\documents\visual studio 2015\Projects\LINK\BOL\obj\Debug\BOL.csprojResolveAssemblyReference.cache
 c:\Users\Your\documents\visual studio 2015\Projects\LINK\BOL\obj\Debug\BOL.dll
 c:\Users\Your\documents\visual studio 2015\Projects\LINK\BOL\obj\Debug\BOL.pdb
+c:\Users\Your\documents\visual studio 2015\Projects\LINK\BOL\bin\Debug\BOL.dll.config
+c:\Users\Your\documents\visual studio 2015\Projects\LINK\BOL\bin\Debug\EntityFramework.dll
+c:\Users\Your\documents\visual studio 2015\Projects\LINK\BOL\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\Your\documents\visual studio 2015\Projects\LINK\BOL\bin\Debug\EntityFramework.xml
+c:\Users\Your\documents\visual studio 2015\Projects\LINK\BOL\bin\Debug\EntityFramework.SqlServer.xml
