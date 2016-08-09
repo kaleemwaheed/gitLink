@@ -7,3 +7,4 @@ c:\Users\Your\documents\visual studio 2015\Projects\LINK\BOL\bin\Debug\EntityFra
 c:\Users\Your\documents\visual studio 2015\Projects\LINK\BOL\bin\Debug\EntityFramework.SqlServer.dll
 c:\Users\Your\documents\visual studio 2015\Projects\LINK\BOL\bin\Debug\EntityFramework.xml
 c:\Users\Your\documents\visual studio 2015\Projects\LINK\BOL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Your\documents\visual studio 2015\Projects\LINK\BOL\obj\Debug\BOL.csprojResolveAssemblyReference.cache

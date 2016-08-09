@@ -39,3 +39,4 @@ c:\users\your\documents\visual studio 2015\Projects\LINK\LINK\bin\BOL.pdb
 c:\users\your\documents\visual studio 2015\Projects\LINK\LINK\bin\EntityFramework.xml
 c:\users\your\documents\visual studio 2015\Projects\LINK\LINK\bin\EntityFramework.SqlServer.dll
 c:\users\your\documents\visual studio 2015\Projects\LINK\LINK\bin\EntityFramework.SqlServer.xml
+C:\Users\Your\documents\visual studio 2015\Projects\LINK\LINK\bin\System.Data.Entity.Repository.dll

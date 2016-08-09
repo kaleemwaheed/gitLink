@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOL", "BOL\BOL.csproj", "{D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{E5D39FCE-17B7-41EC-8995-FE85D75603DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{95256191-CDA1-41BD-973D-8719BB33AE52}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{18046AFE-CA2D-445E-A420-324FA94F8091}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{E5D39FCE-17B7-41EC-8995-FE85D75603DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5D39FCE-17B7-41EC-8995-FE85D75603DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5D39FCE-17B7-41EC-8995-FE85D75603DA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{95256191-CDA1-41BD-973D-8719BB33AE52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{95256191-CDA1-41BD-973D-8719BB33AE52}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{95256191-CDA1-41BD-973D-8719BB33AE52}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{95256191-CDA1-41BD-973D-8719BB33AE52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18046AFE-CA2D-445E-A420-324FA94F8091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18046AFE-CA2D-445E-A420-324FA94F8091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18046AFE-CA2D-445E-A420-324FA94F8091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18046AFE-CA2D-445E-A420-324FA94F8091}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
