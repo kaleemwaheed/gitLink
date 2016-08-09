@@ -7,3 +7,5 @@ c:\Users\Your\documents\visual studio 2015\Projects\LINK\BLL\bin\Debug\BOL.dll
 c:\Users\Your\documents\visual studio 2015\Projects\LINK\BLL\bin\Debug\EntityFramework.dll
 c:\Users\Your\documents\visual studio 2015\Projects\LINK\BLL\bin\Debug\BOL.pdb
 c:\Users\Your\documents\visual studio 2015\Projects\LINK\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Your\documents\visual studio 2015\Projects\LINK\BLL\bin\Debug\DAL.dll
+C:\Users\Your\documents\visual studio 2015\Projects\LINK\BLL\bin\Debug\DAL.pdb

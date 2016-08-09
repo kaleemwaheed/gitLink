@@ -8,11 +8,11 @@ using System.Threading.Tasks;
 
 namespace DAL
 {
-    class URLDb
+    public class UrlDb
     {
         private LinkHubDbEntities db;
 
-        public URLDb()
+        public UrlDb()
         {
             db = new LinkHubDbEntities();
         }

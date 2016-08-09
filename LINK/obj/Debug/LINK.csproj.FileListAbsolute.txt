@@ -40,3 +40,5 @@ c:\users\your\documents\visual studio 2015\Projects\LINK\LINK\bin\EntityFramewor
 c:\users\your\documents\visual studio 2015\Projects\LINK\LINK\bin\EntityFramework.SqlServer.dll
 c:\users\your\documents\visual studio 2015\Projects\LINK\LINK\bin\EntityFramework.SqlServer.xml
 C:\Users\Your\documents\visual studio 2015\Projects\LINK\LINK\bin\System.Data.Entity.Repository.dll
+C:\Users\Your\documents\visual studio 2015\Projects\LINK\LINK\bin\DAL.dll
+C:\Users\Your\documents\visual studio 2015\Projects\LINK\LINK\bin\DAL.pdb

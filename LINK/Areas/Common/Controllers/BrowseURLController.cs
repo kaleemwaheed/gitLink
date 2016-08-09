@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BLL;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,10 +9,18 @@ namespace LINK.Areas.Common.Controllers
 {
     public class BrowseURLController : Controller
     {
+        private UrlBs objurlbs;
+        public BrowseURLController()
+        {
+            objurlbs = new UrlBs();
+
+        }
+
         // GET: Common/BrowseURL
         public ActionResult Index()
         {
-            return View();
+            var urls = objurlbs.GetALL();
+            return View(urls);
         }
     }
 }
