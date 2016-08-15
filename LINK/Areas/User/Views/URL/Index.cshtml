@@ -6,6 +6,10 @@
 
 <h2>Index</h2>
 
+@if (TempData["Msg"] != null)
+{
+    <h3>@TempData["Msg"].ToString()</h3>
+}
 
 @using (Html.BeginForm("Create","URL",FormMethod.Post)) 
 {

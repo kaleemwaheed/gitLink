@@ -70,9 +70,11 @@
     <Compile Include="tbl_Category.cs">
       <DependentUpon>LinkModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="tbl_CategoryValidation.cs" />
     <Compile Include="tbl_Url.cs">
       <DependentUpon>LinkModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="tbl_UrlValidation.cs" />
     <Compile Include="tbl_User.cs">
       <DependentUpon>LinkModel.tt</DependentUpon>
     </Compile>

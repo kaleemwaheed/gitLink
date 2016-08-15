@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace BLL
 {
-    class CategoryBs
+    public class CategoryBs
     {
         private CategoryDb objDb;
 
